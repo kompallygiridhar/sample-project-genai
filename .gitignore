@@ -25,7 +25,7 @@ Thumbs.db
 chroma/
 
 # MCP config (if it contains sensitive info)
-*.json
+
 
 # VSCode settings
 .vscode/
