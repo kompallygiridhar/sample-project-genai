@@ -1,0 +1,8 @@
+Python Development Tips:
+- List comprehensions are a concise way to create lists.
+- The GIL (Global Interpreter Lock) in CPython prevents multiple native threads from executing Python bytecodes in parallel.
+- Use virtual environments (venv or conda) to isolate dependencies.
+- Asyncio is used for writing concurrent code using async/await syntax.
+
+Example:
+squares = [x*x for x in range(10)]

@@ -1,0 +1,10 @@
+IBM DataStage Overview:
+- DataStage is an ETL tool used for extracting, transforming, and loading data.
+- It supports parallel processing for high performance.
+- Administrators manage projects, user roles, and server configuration.
+- Developers build ETL jobs using stages like Transformer, Aggregator, and Join.
+
+Architecture:
+- Clients: Designer, Director, Administrator.
+- Server: Executes ETL jobs and manages resources.
+- Repository: Stores job designs and metadata.

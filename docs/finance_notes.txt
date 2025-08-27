@@ -1,0 +1,9 @@
+Finance Basics:
+- Interest is the cost of borrowing money, usually expressed as a percentage.
+- Compound interest grows faster than simple interest because it earns interest on both the principal and accumulated interest.
+- A mortgage is a loan used to purchase a home, typically paid over 15 to 30 years.
+
+Investment Basics:
+- Stocks represent ownership in a company.
+- Bonds are debt instruments where investors lend money to governments or corporations.
+- Diversification helps reduce risk in investment portfolios.
